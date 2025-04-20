@@ -1,4 +1,11 @@
 # DTMF Signal Generator
+![GitHub commit activity](https://img.shields.io/github/commit-activity/w/dmx3377/dtmf-gen?style=for-the-badge)
+![GitHub Created At](https://img.shields.io/github/created-at/dmx3377/dtmf-gen?style=for-the-badge)
+![GitHub Downloads](https://img.shields.io/github/downloads/dmx3377/dtmf-gen/total?style=for-the-badge)
+![Follow me on X](https://img.shields.io/badge/Follow_me-on_X-black?style=for-the-badge&logo=x&link=https%3A%2F%2Fx.com%2Fdmx3377)
+
+___
+
 
 This repository contains a Jupyter Notebook (`dtmf-gen.ipynb`) file that generates Dual-Tone Multi-Frequency (DTMF) audio signals. DTMF signals are the tones you hear when you press keys on a telephone.
 
