@@ -37,7 +37,12 @@ This repository contains a Jupyter Notebook (`dtmf-gen.ipynb`) file that generat
 3.  In the notebook:
     * Modify the  `DIAL_NUMBER`  variable in the last code cell to the phone number you want to generate DTMF tones for.
     * Run the notebook cells. The DTMF audio will be played.
-
+  
+You may also check and open the project on Google Colab, and CoCalc.
+</br>
+<a href="https://colab.research.google.com/github/dmx3377/DTMF-gen/blob/master/DTMF-gen.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg"></img><a>
+</br>
+<a href="https://cocalc.com/share/public_paths/a735dc15240e1edf2d423ca43d5966f4aa089331" target="_blank"><img src="https://img.shields.io/badge/Open_in-CoCalc-blue"></a>
 ##  License
 
 This project is licensed under the [BSD 3-Clause License](LICENSE)
