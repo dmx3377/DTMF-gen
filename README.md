@@ -34,3 +34,8 @@ This repository contains a Jupyter Notebook (`dtmf-gen.ipynb`) file that generat
 ##  License
 
 This project is licensed under the [BSD 3-Clause License](LICENSE)
+
+## Attribution
+This repository uses *modified* portions of code taken from:
+* [Hellochatterbox/OpenTone](https://github.com/HelloChatterbox/OpenTone)
+* [alijamaliz/DTMF-detector](https://github.com/alijamaliz/DTMF-detector)
